@@ -6,6 +6,10 @@
 
 Ilya Grigorik의 *High Performance Browser Networking*을 장별로 정리한 한국어 요약입니다.
 
+## 노션용 정리본
+
+- [노션 한 페이지 정리본](notion-one-page.md)
+
 ## 목차
 
 ### Part 1. Networking Primer

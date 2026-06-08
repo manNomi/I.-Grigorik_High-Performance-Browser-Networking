@@ -1,5 +1,9 @@
 # High Performance Browser Networking 요약
 
+<p align="center">
+  <img src="assets/high-performance-browser-networking-cover.png" alt="High Performance Browser Networking Korean book cover" width="420" />
+</p>
+
 Ilya Grigorik의 *High Performance Browser Networking*을 장별로 정리한 한국어 요약입니다.
 
 ## 목차
